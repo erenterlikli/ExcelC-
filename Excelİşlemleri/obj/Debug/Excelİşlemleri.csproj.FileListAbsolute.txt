@@ -1,0 +1,12 @@
+C:\Users\Eren\source\repos\Excelİşlemleri\Excelİşlemleri\bin\Debug\Excelİşlemleri.exe.config
+C:\Users\Eren\source\repos\Excelİşlemleri\Excelİşlemleri\bin\Debug\Excelİşlemleri.exe
+C:\Users\Eren\source\repos\Excelİşlemleri\Excelİşlemleri\bin\Debug\Excelİşlemleri.pdb
+C:\Users\Eren\source\repos\Excelİşlemleri\Excelİşlemleri\obj\Debug\Excelİşlemleri.csprojAssemblyReference.cache
+C:\Users\Eren\source\repos\Excelİşlemleri\Excelİşlemleri\obj\Debug\Excelİşlemleri.csproj.ResolveComReference.cache
+C:\Users\Eren\source\repos\Excelİşlemleri\Excelİşlemleri\obj\Debug\Excelİşlemleri.Form1.resources
+C:\Users\Eren\source\repos\Excelİşlemleri\Excelİşlemleri\obj\Debug\Excelİşlemleri.Properties.Resources.resources
+C:\Users\Eren\source\repos\Excelİşlemleri\Excelİşlemleri\obj\Debug\Excelİşlemleri.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\Excelİşlemleri\Excelİşlemleri\obj\Debug\Excelİşlemleri.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\Excelİşlemleri\Excelİşlemleri\obj\Debug\Excelİşlemleri.exe
+C:\Users\Eren\source\repos\Excelİşlemleri\Excelİşlemleri\obj\Debug\Excelİşlemleri.pdb
+C:\Users\Eren\source\repos\Excelİşlemleri\Excelİşlemleri\obj\Debug\Excelİşlemleri.Form2.resources
